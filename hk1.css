@@ -1,0 +1,340 @@
+/* GLOBAL */
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html, body {
+    font-family: "Nunito", sans-serif;
+}
+
+.heading{
+    text-align: center;
+}
+
+.heading h1 {
+    font-size: 2rem;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 14px;
+    color: rgb(9, 58, 93);
+    font-weight: 700;
+
+}
+.heading p {
+    font-size: 1.1rem;
+    font-style: italic;
+    color: rgb(0, 83, 143);
+    margin-bottom: 10px;
+}
+
+.heading--white h1 {
+    color: rgb(223, 250, 250);
+}
+.heading--white p {
+    color: rgb(183, 226, 226);
+}
+
+.spacing{
+    padding: 85px 20px;
+}
+
+
+/*HEADER*/
+header {
+    background-color: rgb(0, 83, 143);
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    z-index: 10;
+    width: 100%;
+}
+header ul {
+    margin: 0px;
+}
+header > nav > ul > li {
+    list-style: none;
+}
+
+header > nav > ul > li:hover {
+    background-color: rgb(155, 247, 216);
+}
+header > nav > ul > li:hover a.nav__edit {
+    color: rgb(0, 83, 143);
+}
+header > nav > ul > li:hover i{
+    color: rgb(0, 83, 143);
+}
+div.nav__item a:hover{
+    color: rgb(0, 83, 143);
+}
+
+header nav ul{
+    display: flex;
+}
+header nav > ul a {
+    text-decoration: none;
+    padding: 12px 24px;
+    display: block ;
+    color: rgb(207, 246, 246);
+    font-size: 1.1rem;
+
+}
+header nav > ul a:hover{
+    background-color: rgb(155, 247, 216);
+}
+
+
+.header__search > i {
+    color: rgb(207, 246, 246) ;
+    /*1 rem = (font size hiện tại) px */
+    font-size: 1.1rem;
+    padding: 16.5px 30px;
+}
+
+.header__search > i:hover{
+    background-color: rgb(155, 247, 216);
+    color: rgb(0, 83, 143);
+}
+
+.nav__coders {
+    display: flex;
+    position: relative;
+    align-items: center;
+    
+    z-index: 9999;
+}
+.nav__coders .nav__item {
+    position: absolute;
+    top: 100%;
+    left: 0%;
+    background-color: rgb(74, 62, 154);
+    width: 150%;
+    /*độ mờ có value từ 0 > 1*/
+    opacity: 0;
+}
+.nav__coders:hover .nav__item {
+    opacity: 1;
+}
+
+.nav__coders > a {
+    padding-right: 5px;
+}
+.nav__coders > i {
+    color: rgb(207, 246, 246) ;
+    padding-right: 30px;
+}
+.nav__coders .nav__item a {
+    display: block;
+    padding: 10px 10px;
+}
+
+/*CAROUSEL*/
+.carouselMovie img {
+    height: 700px;
+    object-fit:cover;
+    background-color: rgb(207, 246, 246);
+}
+
+.carouselMovie {
+    z-index: 1;
+}
+
+/*SPIRITED AWAY*/
+.themovie__content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.themovie__content > p {
+    text-align: justify;
+    line-height: 1.2rem;
+    word-spacing: 1px;
+}
+.themovie__soundtrack{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+
+.themovie__item {
+    width: 160px;
+}
+.themovie__item h5 {
+    font-size: 1rem;
+    font-style: italic;
+    color: rgb(0, 83, 143);
+    padding-bottom: 20px;
+    text-align: center;
+}
+.themovie__item img {
+    width: 100%;
+    height: 83%;
+    object-fit: cover;
+}
+
+/*MERCHANDISE*/
+.merchandiseBuy {
+    background-color: rgb(11, 43, 74);
+}
+.merchandise__content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.merchandise__available {
+    background-color: rgb(207, 246, 246);
+    margin: 25px 0;
+}
+.merchandise__available ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.merchandise__available ul li {
+    display: flex;
+    border-bottom: 1px solid rgba(0, 83, 143, 0.7);
+}
+.merchandise__available li p {
+    /*0>1*/
+    opacity: 0.7 ;
+    margin: 15px;
+}
+.merchandise__available li .merchandise__sold{
+    opacity: 1;
+    background-color: rgb(232, 64, 134);
+    color: rgb(223, 250, 250);
+    padding: 0.5px 7px;
+}
+.merchandise__available li .merchandise__notsold{
+    opacity: 1;
+    margin-left: auto;
+    margin-right: 30px;
+    background-color: rgb(74, 62, 154);
+    padding: 1px 10px;
+    color: rgb(223, 250, 250);
+    border-radius: 100%;
+}
+
+.merchandise__products {
+    display: flex;
+    justify-content: space-between;
+}
+.merchandise__item {
+    background-color: rgb(223, 250, 250);
+    width: 32%;
+}
+.merchandise__item img {
+    width: 100%;
+}
+.merchandise__item h6 {
+    font-size: 1.1rem;
+    margin: 0px;
+    padding: 20px 10px;
+    color: rgb(4, 53, 88);
+
+}
+.merchandise__item p {
+    margin: 0;
+}
+.merchandise__item p:first-of-type {
+    opacity: 0.7;
+    /*top>right>bottom>left*/
+    padding: 0 0 20px 10px;
+}
+.merchandise__item p:last-of-type {
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 1.4rem;
+}
+.merchandise__item button {
+    padding: 10px 20px;
+    margin: 15px 10px;
+    border: none;
+    background-color: rgb(74, 62, 154);
+    color: rgb(223, 250, 250);
+}
+.merchandise__item button:hover {
+    background-color: rgb(232, 64, 134);
+}
+
+/*CONTACT*/
+.contact__content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 800px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.contact__left .contact__item {
+    display: flex;
+    margin-bottom: 5px;
+    align-items: center;
+}
+.contact__left .contact__item p {
+    font-size: 1.2rem;
+    margin: 0;
+    margin-left: 10px;
+}
+.contact__right .contact__input {
+    display: flex;
+    margin-bottom: 10px;
+}
+.contact__right input {
+    padding: 10px;
+    border: 1px solid rgba(0, 83, 143, 0.7);
+    width: 100%;
+}
+
+.contact__input input:first-of-type {
+    margin-right: 20px;
+}
+.contact__right button {
+    float: right;
+    margin-top: 15px;
+    padding: 10px 15px;
+    font-size: 1.1rem;
+    border: none;
+    background-color: rgb(9, 58, 93);
+    color: rgb(207, 246, 246) ;
+}
+.contact__right button:hover {
+    background-color: rgb(232, 64, 134);
+}
+
+/*IMAGE*/
+.image {
+    background-image: url(https://statcdn.fandango.com/MPX/image/NBCU_Fandango/11/123/thumb_20DEA1D8-3678-418E-8347-5D7DAFC98D83.jpg);
+    width: 100%;
+    height: 800px;
+    background-size: cover;
+    /*filter: grayscale(50%)*/
+    margin: 85px 0;
+    background-position: center bottom;
+}
+
+/*FOOTER*/
+footer {
+    color: rgb(0, 83, 143);
+    text-align: center;
+    margin-bottom: 85px;
+}
+
+footer .footer__icon {
+    width: 100%;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+footer p a{
+    text-decoration: none;
+    color: rgb(74, 62, 154);
+    font-weight: 700;
+}
+
+footer p a:hover {
+    background: linear-gradient(90deg, red,yellow,green,blue);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+
+
