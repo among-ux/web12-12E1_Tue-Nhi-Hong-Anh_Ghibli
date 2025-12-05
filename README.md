@@ -8,16 +8,16 @@ Hồng Anh - Xây dựng và hoàn thành khung trang web.
 Tuệ Nhi - Hoàn thành toàn bộ khung báo cáo, thống nhất concept và ý tưởng
 20/11:
 Hồng Anh - Tiếp tục hoàn thiện chi tiết của trang web.
-Tuệ Nhi: Xây dựng ý tưởng về nội dung, hình ảnh, phong cách thiết kế, màu sắc chủ đạo và giám sát.
-21/11
-Hồng Anh: Tiếp tục hoàn thiện code của website.
-Tuệ Nhi: Tiếp tục tổng hợp hình ảnh, tư liệu sản phẩm và hoàn thành báo cáo 
-22/11
-Hồng Anh: Giám sát và điều chỉnh tiến độ xây dựng website
-Tuệ Nhi: Hoàn thiện trang web
-28/11
-Tiến hành deploy trang web lên GitHub, tiếp tục hoàn thiện trang web
-Hỗ trợ deploy trang web lên GitHub và hoàn thiện
+Tuệ Nhi - Xây dựng ý tưởng về nội dung, hình ảnh, phong cách thiết kế, màu sắc chủ đạo và giám sát.
+21/11:
+Hồng Anh - Tiếp tục hoàn thiện code của website.
+Tuệ Nhi - Tiếp tục tổng hợp hình ảnh, tư liệu sản phẩm và hoàn thành báo cáo 
+22/11:
+Hồng Anh - Giám sát và điều chỉnh tiến độ xây dựng website
+Tuệ Nhi - Hoàn thiện trang web
+28/11:
+Hồng Anh - Tiến hành deploy trang web lên GitHub, tiếp tục hoàn thiện trang web
+Tuệ Nhi - Hỗ trợ deploy trang web lên GitHub và hoàn thiện
 
 ## Cách chạy
 <ul>
