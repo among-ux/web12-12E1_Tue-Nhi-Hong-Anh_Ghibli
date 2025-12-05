@@ -3,9 +3,11 @@
 Lương Hồng Anh, Lê Song Tuệ Nhi
 
 ## Phân công
-19/11:
-Hồng Anh - Xây dựng và hoàn thành khung trang web.
-Tuệ Nhi - Hoàn thành toàn bộ khung báo cáo, thống nhất concept và ý tưởng
+<ul>
+  <ul>19/11:
+    <li>Hồng Anh - Xây dựng và hoàn thành khung trang web.</li>
+    <li>Tuệ Nhi - Hoàn thành toàn bộ khung báo cáo, thống nhất concept và ý tưởng</li>
+  </ul>
 20/11:
 Hồng Anh - Tiếp tục hoàn thiện chi tiết của trang web.
 Tuệ Nhi - Xây dựng ý tưởng về nội dung, hình ảnh, phong cách thiết kế, màu sắc chủ đạo và giám sát.
@@ -18,7 +20,7 @@ Tuệ Nhi - Hoàn thiện trang web
 28/11:
 Hồng Anh - Tiến hành deploy trang web lên GitHub, tiếp tục hoàn thiện trang web
 Tuệ Nhi - Hỗ trợ deploy trang web lên GitHub và hoàn thiện
-
+</ul>
 ## Cách chạy
 <ul>
   <li>Áp dụng Class/ID, HTML semantic; tổ chức thư mục /assets/img/css. (Điểm cộng) JS thuần cho hiệu ứng cơ bản: menu mobile, modal, carousel.</li>
