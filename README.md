@@ -1,6 +1,7 @@
 # Spirited away
 ## Thành viên:
 Lương Hồng Anh, Lê Song Tuệ Nhi
+
 ## Phân công
 19/11:
 Hồng Anh - Xây dựng và hoàn thành khung trang web.
@@ -27,6 +28,7 @@ Hỗ trợ deploy trang web lên GitHub và hoàn thiện
   <li>Deploy lên GitHub Pages (public).</li>
   <li>Nhóm thực hiện theo hướng dẫn của giáo viên theo canvas, bắt đầu từ việc tạo tài khoản GitHub, liên kết website và deploy website lên GitHub.</li>
 </ul>
+    
 ## Link Pages
 https://among-ux.github.io/web12-12E1_Tue-Nhi-Hong-Anh_Ghibli/
 
