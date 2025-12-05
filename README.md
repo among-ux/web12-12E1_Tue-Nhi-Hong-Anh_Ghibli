@@ -4,10 +4,10 @@ Lương Hồng Anh, Lê Song Tuệ Nhi
 
 ## Phân công
 <ul>
-  <ul>19/11:
+  <li><ul>19/11:
     <li>Hồng Anh - Xây dựng và hoàn thành khung trang web.</li>
     <li>Tuệ Nhi - Hoàn thành toàn bộ khung báo cáo, thống nhất concept và ý tưởng</li>
-  </ul>
+  </ul></li>
 20/11:
 Hồng Anh - Tiếp tục hoàn thiện chi tiết của trang web.
 Tuệ Nhi - Xây dựng ý tưởng về nội dung, hình ảnh, phong cách thiết kế, màu sắc chủ đạo và giám sát.
