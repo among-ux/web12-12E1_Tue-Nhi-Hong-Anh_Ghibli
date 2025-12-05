@@ -5,21 +5,25 @@ Lương Hồng Anh, Lê Song Tuệ Nhi
 ## Phân công
 <ul>
   <li><ul>19/11:
-    <li>Hồng Anh - Xây dựng và hoàn thành khung trang web.</li>
-    <li>Tuệ Nhi - Hoàn thành toàn bộ khung báo cáo, thống nhất concept và ý tưởng</li>
+    <li> Hồng Anh - Xây dựng và hoàn thành khung trang web.</li>
+    <li> Tuệ Nhi - Hoàn thành toàn bộ khung báo cáo, thống nhất concept và ý tưởng</li>
   </ul></li>
-20/11:
-Hồng Anh - Tiếp tục hoàn thiện chi tiết của trang web.
-Tuệ Nhi - Xây dựng ý tưởng về nội dung, hình ảnh, phong cách thiết kế, màu sắc chủ đạo và giám sát.
-21/11:
-Hồng Anh - Tiếp tục hoàn thiện code của website.
-Tuệ Nhi - Tiếp tục tổng hợp hình ảnh, tư liệu sản phẩm và hoàn thành báo cáo 
-22/11:
-Hồng Anh - Giám sát và điều chỉnh tiến độ xây dựng website
-Tuệ Nhi - Hoàn thiện trang web
-28/11:
-Hồng Anh - Tiến hành deploy trang web lên GitHub, tiếp tục hoàn thiện trang web
-Tuệ Nhi - Hỗ trợ deploy trang web lên GitHub và hoàn thiện
+  <li><ul>20/11:
+    <li>Hồng Anh - Tiếp tục hoàn thiện chi tiết của trang web.</li>
+    <li>Tuệ Nhi - Xây dựng ý tưởng về nội dung, hình ảnh, phong cách thiết kế, màu sắc chủ đạo và giám sát.</li>
+  </ul></li>
+  <li><ul>21/11:
+    <li>Hồng Anh - Tiếp tục hoàn thiện code của website.</li>
+    <li>Tuệ Nhi - Tiếp tục tổng hợp hình ảnh, tư liệu sản phẩm và hoàn thành báo cáo </li>
+  </ul></li>
+  <li><ul>22/11:
+    <li>Hồng Anh - Giám sát và điều chỉnh tiến độ xây dựng website</li>
+    <li>Tuệ Nhi - Hoàn thiện trang web</li>
+  </ul></li>
+  <li><ul>28/11:
+    <li>Hồng Anh - Tiến hành deploy trang web lên GitHub, tiếp tục hoàn thiện trang web</li>
+    <li>Tuệ Nhi - Hỗ trợ deploy trang web lên GitHub và hoàn thiện</li>
+  </ul></li>
 </ul>
 ## Cách chạy
 <ul>
