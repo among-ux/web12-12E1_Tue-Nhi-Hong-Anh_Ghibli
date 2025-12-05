@@ -30,7 +30,7 @@ Lương Hồng Anh, Lê Song Tuệ Nhi
 ## Cách chạy
 <ul>
   <li>Áp dụng Class/ID, HTML semantic; tổ chức thư mục /assets/img/css. (Điểm cộng) JS thuần cho hiệu ứng cơ bản: menu mobile, modal, carousel.</li>
-  <li>Về html semantic, nhóm sử dụng các thẻ như "<img>", "<header>", "<footer>".</li>
+  <li>Về html semantic, nhóm sử dụng các thẻ như img, header, footer.</li>
   <li>Về tổ chức thư mục, nhóm xây dựng file CSS External để đảm bảo tính linh hoạt khi thiết kế.</li>
   <li>Về class và id, nhóm sử dụng những class như “header_search” hay “slider” trong khi code để dễ dàng trình bày trên CSS cũng như xây dựng nội dung.</li>
   <li>Deploy lên GitHub Pages (public).</li>
