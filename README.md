@@ -25,6 +25,7 @@ Lương Hồng Anh, Lê Song Tuệ Nhi
     <li>Tuệ Nhi - Hỗ trợ deploy trang web lên GitHub và hoàn thiện</li>
   </ul></li>
 </ul>
+
 ## Cách chạy
 <ul>
   <li>Áp dụng Class/ID, HTML semantic; tổ chức thư mục /assets/img/css. (Điểm cộng) JS thuần cho hiệu ứng cơ bản: menu mobile, modal, carousel.</li>
